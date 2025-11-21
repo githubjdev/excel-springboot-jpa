@@ -7,4 +7,6 @@ import excel.dev.entity.Produto;
 
 @Repository
 public interface ProdutoRepository extends JpaRepository<Produto, Long> {
+	
+	
 }
